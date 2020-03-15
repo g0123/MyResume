@@ -88,7 +88,7 @@
     * 完成医院绩效系统的需求开发，解决了大量的bug，有效提高了程序的容错率
  
 
-* **医院职能管理系统（https://github.com/g0123/hms）/（https://github.com/g0123/hms-vue）**
+* **医院职能管理系统（https://github.com/g0123/hms）、（https://github.com/g0123/hms-vue）**
 
   * **时间：** 2020年1月至今
 
