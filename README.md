@@ -62,7 +62,7 @@
 
 ## 项目经验
 
-* **增量交易平台（https://gitee.com/g0/inctrans）** 平台地址：http://houtai.xingchen321.com/
+* **增量交易平台** 平台地址：http://houtai.xingchen321.com/
 
   * **时间：** 2020年5月至今
 
@@ -94,7 +94,7 @@
     * 日完成单量3000左右，撤销单量20000
  
 
-* **医院职能管理系统（https://github.com/g0123/hms）（https://github.com/g0123/hms-vue）**
+* **医院职能管理系统**
 
   * **时间：** 2020年1月至今
 
